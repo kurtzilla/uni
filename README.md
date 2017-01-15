@@ -1,6 +1,10 @@
 ### Feature Branch
 
+<<<<<<< HEAD
 Note: This is a feature branch of `react-universally`. Please see the [`FEATURE_POSTCSS_SASS.md`](/docs/FEATURE_POSTCSS_SASS.md) doc for more information on this branch.
+=======
+Note: This is a feature branch of `react-universally`. Please see the [`FEATURE_REDUX_OPINIONATED.md`](/docs/FEATURE_REDUX_OPINIONATED.md) for more information on this branch.
+>>>>>>> upstream/feature/redux-opinionated
 
 ---
 
