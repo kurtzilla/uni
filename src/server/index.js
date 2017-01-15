@@ -45,6 +45,8 @@ app.use(config.bundles.client.webPath, clientBundle);
 // Note: these will be served off the root (i.e. '/') of our application.
 app.use(express.static(pathResolve(appRootDir.get(), config.publicAssetsPath)));
 
+console.log('server routes in here?');
+
 // The React application middleware.
 app.get('*', reactApplication);
 

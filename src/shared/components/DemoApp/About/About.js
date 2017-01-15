@@ -24,7 +24,7 @@ function About() {
     <div style={{ textAlign: 'center' }}>
       <Helmet title="About" />
 
-      <p>Produced with ❤️ by...</p>
+      <p>Produced with ❤️ by...joe</p>
 
       <ul style={{ marginTop: '1rem' }}>
         {
