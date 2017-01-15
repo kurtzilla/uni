@@ -98,7 +98,6 @@
     "babel-preset-stage-3": "6.17.0",
     "babel-template": "6.16.0",
     "chokidar": "1.6.1",
-    
     "css-loader": "0.26.1",
     "enzyme": "2.7.0",
     "enzyme-to-json": "1.4.5",
